@@ -1,2 +1,1 @@
-# InfinityPictures.github.io
-InfinityPictures
+https://nihantelli.github.io/InfinityPictures.github.io/
